@@ -32,6 +32,10 @@ max-width:100%;
 img{
     width: 30%;
 }
+
+header{
+    margin-top:200px;
+}
 .row {
     display: flex;
     margin-top: 30px;
@@ -45,6 +49,8 @@ img{
   
  
 }
+
+
 
 
 .text button{
